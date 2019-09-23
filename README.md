@@ -1,2 +1,4 @@
 # om-mig
-aa
+**Navn: Hani Shama
+
+**Tidligere arbejdet med HTML, CSS og Javascript
